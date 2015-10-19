@@ -1,1 +1,1 @@
-1;https://github.com/OfferReward/AndroidApp/raw/master/OfferReward.apk
+2;https://github.com/OfferReward/AndroidApp/raw/master/OfferReward.apk
